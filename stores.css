@@ -57,9 +57,9 @@ body{
 }
 
 
-/* content */
+
 .content{
-    background-image: url(/jersey/poster.jpg);
+    background-image: url(girl.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 0 3%;
